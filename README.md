@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **coranholmes/coranholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+> 蒙获嘉瑞，赐兹祉福。
+
+
+#### Hi, I am Weiling.
+
+- 🔭 I’m currently working on video anomaly detection.
+- 🌱 I’m currently learning computer vision.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiling-chen/)
+- ⚡ Fun fact: 
+  - I am am learning Law recently.
+  - I am interested in Chinese history (Three Kingdom Times).
+  - I enjoy writing fanfictions.
+  - I have got a certificate in UI/UX design.
+
+
