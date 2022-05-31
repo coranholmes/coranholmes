@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+  - I am am learning Law recently.
+  - I am interested in Chinese history (Three Kingdom Times).
+  - I enjoy writing fanfictions.
+  - I have got a certificate on UI/UX design.
 -->
 
 
@@ -22,12 +26,8 @@ Here are some ideas to get you started:
 #### Hi, I am Weiling.
 
 - 🔭 I’m currently working on video anomaly detection.
-- 🌱 I’m currently learning computer vision.
+- 🌱 I’m interested in multimodal learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiling-chen/)
-- ⚡ Fun fact: 
-  - I am am learning Law recently.
-  - I am interested in Chinese history (Three Kingdom Times).
-  - I enjoy writing fanfictions.
-  - I have got a certificate in UI/UX design.
+
 
 
