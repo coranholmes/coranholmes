@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #### Hi, I am Weiling.
 
-- 🔭 I’m currently working on video anomaly detection.
+- 🔭 I’m currently working on Large Language Model.
 - 🌱 I’m interested in multimodal learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/weiling-chen/)
 
